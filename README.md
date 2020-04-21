@@ -1,10 +1,9 @@
-# Projeto Site Empreendedores, Prestadores de Serviços e Empresas
- Site de empresas, profissionais liberais e prestadores de serviço regionais.
-
- Site dedicado a divulgar diversas empresas, empreendedores, profissionais liberais e prestadores de serviços regionais.
-
- A idéia do site é conectar pessoas interessadas em produtos, prestação de serviços e outros assuntos. 
-
- Conectar empreendedores e clientes de forma simples, rápida e eficaz em qualquer região. 
- 
- O site terá  uma seção de busca bem elaborada para facilia ao usuário encontrar o que precisa ou deseja.
+# Projeto de site para conectar  pessoas com:
+*  Empresas
+* Empreendedores
+* Prestadores de Serviços
+* Profissionais Liberais 
+* Trabalhadores Autõnomos
+* Artesãos
+##  __A  idéia do site é ajudar pessoas a encontrarem produtos e serviços em sua região__
+* O site terá um recurso de busca avançada para facilitar os usuários a encontrar rapidamente o que procur
